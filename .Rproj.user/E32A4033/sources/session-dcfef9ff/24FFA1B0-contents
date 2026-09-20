@@ -1,0 +1,66 @@
+---
+title: "Contacto y Cotizaciones"
+subtitle: "Estamos listos para atender los requerimientos analíticos de su empresa"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+::: {.card-service}
+### Solicite una Cotización o Diagnóstico Gratuito
+
+Complete el formulario y uno de nuestros socios consultores se pondrá en contacto en menos de 24 horas.
+
+<form action="https://formspree.io/f/xbjnqweq" method="POST">
+  <label for="name"><strong>Nombre Completo:</strong></label>
+  <input type="text" id="name" name="name" class="form-control-custom" placeholder="Ej. Juan Pérez" required>
+
+  <label for="email"><strong>Correo Corporativo:</strong></label>
+  <input type="email" id="email" name="email" class="form-control-custom" placeholder="ejemplo@empresa.com" required>
+
+  <label for="company"><strong>Empresa / Organización:</strong></label>
+  <input type="text" id="company" name="company" class="form-control-custom" placeholder="Nombre de su empresa">
+
+  <label for="service"><strong>Servicio de Interés:</strong></label>
+  <select id="service" name="service" class="form-control-custom">
+    <option value="training-powerbi">Capacitación: Power BI Corporativo</option>
+    <option value="training-r-python">Capacitación: R o Python para Data Science</option>
+    <option value="training-sql">Capacitación: SQL Avanzado</option>
+    <option value="consulting-dashboards">Consultoría: Desarrollo de Dashboards (Shiny/Power BI)</option>
+    <option value="consulting-predictive">Consultoría: Modelado Predictivo / Automatización</option>
+    <option value="otro">Otro Requerimiento Especial</option>
+  </select>
+
+  <label for="message"><strong>Detalle de su solicitud:</strong></label>
+  <textarea id="message" name="message" rows="4" class="form-control-custom" placeholder="Describa brevemente lo que necesita su equipo..." required></textarea>
+
+  <button type="submit" class="btn-primary-custom" style="width: 100%;">Enviar Mensaje de Cotización</button>
+</form>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-5}
+::: {.card-service style="background: #f8fafc;"}
+### Datos de Contacto Directo
+
+* **Razón Social:**  
+  Analytics360 Consulting & Training S.A.C.
+
+* **Correo Corporativo:**  
+  [contacto@analytics360.pe](mailto:contacto@analytics360.pe)
+
+* **Red Profesional:**  
+  [LinkedIn de Analytics360](https://www.linkedin.com)
+
+* **Horario de Atención:**  
+  Lunes a Viernes: 8:00 - 18:00 hrs.
+
+---
+
+#### Modalidad de Servicio
+* **Capacitaciones:** Virtuales en vivo a nivel nacional e internacional, y presenciales *In-House*.
+* **Consultoría:** Despliegue en servidores del cliente o en la nube.
+:::
+:::
+
+:::

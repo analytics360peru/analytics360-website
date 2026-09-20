@@ -1,0 +1,56 @@
+---
+title: "Analytics360 Consulting"
+subtitle: "Soluciones Estadísticas y de Analítica Avanzada a Medida"
+---
+
+Desarrollamos proyectos de consultoría técnica para optimizar la toma de decisiones, automatizar flujos de datos e implementar modelos predictivos.
+
+---
+
+### Servicios Especializados
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### 1. Automatización de Pipelines y Reportabilidad
+* Limpieza y estructuración masiva de datos heterogéneos.
+* Flujos automatizados en R/Python y SQL para eliminar tareas manuales repetitivas.
+* Generación de reportes ejecutivos reproducibles.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### 2. Modelado Estadístico y Analítica Predictiva
+* Modelos de clasificación, regresión y series de tiempo para proyecciones de negocio.
+* Evaluación de riesgo, segmentación de clientes y modelos de retención (*churn*).
+* Evaluación de impacto y modelos econométricos aplicados.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### 3. Web Apps y Tableros Interactivos (Shiny / Power BI)
+* Arquitectura e implementación de dashboards interactivos en R Shiny o Shiny para Python.
+* Visualización geoespacial, indicadores clave (KPIs) en tiempo real y descarga de reportes.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### 4. Muestreo e Investigación Cuantitativa
+* Diseño muestral para encuestas complejas y estudios sectoriales.
+* Cálculo de factores de expansión, estimación de indicadores e intervalo de confianza.
+* Procesamiento e inferencia con microdatos institucionales.
+:::
+:::
+
+:::
+
+::: {.callout-tip appearance="simple" style="margin-top: 2rem;"}
+## ¿Tiene un requerimiento técnico específico?
+Agende una breve reunión inicial de 15 minutos con nuestros socios estadísticos para diagnosticar la necesidad de su empresa.
+
+[Contactar al Equipo de Consultoría](contacto.qmd){.btn-primary-custom style="margin-top: 0.5rem;"}
+:::

@@ -1,0 +1,125 @@
+---
+title: "Analytics360 Consulting & Training S.A.C."
+subtitle: "Transformamos datos complejos en decisiones estratégicas y equipos autónomos"
+format: html
+---
+
+::: {.hero-banner .text-center}
+<img src="images/logo.png" alt="Analytics360 Logo" style="max-height: 140px; margin-bottom: 1.5rem; background: white; padding: 12px 20px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+# Analytics360 Consulting & Training
+
+Transformamos datos masivos en decisiones de negocio y capacitamos a sus equipos para ser 100% autónomos en analítica.
+
+[Solicitar Propuesta In-House](contacto.qmd){.btn-primary-custom style="margin-top: 1rem;"}
+:::
+
+::: {.grid style="margin-bottom: 3rem;"}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.metric-card}
+::: {.metric-number}
+360°
+:::
+**Enfoque Integral**  
+Desde el procesamiento de bases de datos hasta la toma de decisiones ejecutivas.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.metric-card}
+::: {.metric-number}
+100%
+:::
+**Rigor Estadístico**  
+Fundada y dirigida por profesionales calificados en ciencia estadística.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.metric-card}
+::: {.metric-number}
+0%
+:::
+**Trabajo Manual Repetitivo**  
+Especialistas en automatización de flujos y tableros interactivos.
+:::
+:::
+
+:::
+
+---
+
+## Soluciones Específicas para su Empresa
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+### <i class="bi bi-journal-code" style="color: #10b981;"></i> Analytics360 Training
+**Capacitación Corporativa In-House**
+
+Diseñamos talleres y programas prácticos orientados a resolver los problemas reales de su organización.
+
+* **Power BI Corporativo:** De datos desordenados a tableros ejecutivos en tiempo real.
+* **Excel Avanzado & Power Query:** Automatización de reportes mensuales.
+* **R & Python para Data Science:** Procesamiento masivo y modelos predictivos.
+* **SQL Avanzado:** Consultas complejas y estructuración en bases de datos.
+
+[Explorar Mallas Curriculares &rarr;](training.qmd)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+### <i class="bi bi-graph-up-arrow" style="color: #10b981;"></i> Analytics360 Consulting
+**Consultoría y Desarrollo a Medida**
+
+Implementamos soluciones analíticas avanzadas directamente en la infraestructura de su empresa.
+
+* **Dashboards Web Interactivos (R Shiny / Python):** Visualización ejecutiva a medida.
+* **Modelado Predictivo:** Modelos de retención de clientes (*churn*), riesgo y series de tiempo.
+* **Pipelines de Datos Automatizados:** Reducción del 80% de tiempo en procesamiento de reportes.
+* **Investigación Cuantitativa & Muestreo:** Diseño metodológico y análisis multivariado.
+
+[Ver Servicios de Consultoría &rarr;](consulting.qmd)
+:::
+:::
+
+:::
+
+---
+
+## Casos de Aplicación por Industria
+
+::: {.grid style="margin-top: 2rem;"}
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card-service style="background: #f8fafc;"}
+#### <i class="bi bi-shop" style="color: #10b981;"></i> Retail & Ventas
+Dashboards de control de stock, predicción de demanda y segmentación de clientes.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card-service style="background: #f8fafc;"}
+#### <i class="bi bi-bank" style="color: #10b981;"></i> Finanzas y Riesgo
+Modelos de score crediticio, detección de anomalías y automatización de reportes financieros.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card-service style="background: #f8fafc;"}
+#### <i class="bi bi-activity" style="color: #10b981;"></i> Salud y Sector Público
+Monitoreo de indicadores poblacionales, bioestadística y tableros epidemiológicos.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3}
+::: {.card-service style="background: #f8fafc;"}
+#### <i class="bi bi-gear-wide-connected" style="color: #10b981;"></i> Operaciones
+Control estadístico de procesos, optimización logística y reducción de tiempos muertos.
+:::
+:::
+
+:::

@@ -1,0 +1,57 @@
+---
+title: "Analytics360 Training"
+subtitle: "Programas In-House de Capacitación Corporativa en Analítica de Datos"
+---
+
+Diseñamos programas de formación a la medida de las necesidades operativas de su empresa, dictados en modalidad virtual en vivo o presencial.
+
+---
+
+### Programas Destacados
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### Power BI Corporativo: De Datos a Dashboards Ejecutivos
+* **Duración:** 16 a 24 horas.
+* **Enfoque:** Conexión a fuentes relacionales, modelado DAX avanzado, Power Query para automatización y diseño de tableros de control ejecutivos.
+* **Dirigido a:** Equipos comerciales, financieros, de riesgo y operaciones.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### R & Tidyverse para Procesamiento y Automatización
+* **Duración:** 20 a 30 horas.
+* **Enfoque:** Manipulación eficiente de microdatos, limpieza masiva, reportabilidad automatizada y modelos estadísticos aplicados.
+* **Dirigido a:** Analistas cuantitativos, científicos de datos e investigadores.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### SQL Avanzado para Analítica de Negocio
+* **Duración:** 16 horas.
+* **Enfoque:** Consultas complejas, subconsultas, Window Functions, CTEs y optimización para bases relacionales (PostgreSQL/Oracle).
+* **Dirigido a:** Analistas BI, administradores de datos y gestores de información.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card-service}
+#### Desarrollo de Dashboards Web con R Shiny / Python
+* **Duración:** 24 horas.
+* **Enfoque:** Creación de aplicaciones web interactivas, integración de mapas, cálculo de KPIs dinámicos y despliegue en servidor.
+* **Dirigido a:** Equipos avanzados de analítica e inteligencia de negocios.
+:::
+:::
+
+:::
+
+::: {.callout-note appearance="simple" style="margin-top: 2rem;"}
+## ¿Necesita un programa a medida para su equipo?
+Personalizamos la malla curricular utilizando los propios datasets o flujos de trabajo de su empresa.
+
+[Solicitar Malla Curricular Personalizada](contacto.qmd){.btn-primary-custom style="margin-top: 0.5rem;"}
+:::
