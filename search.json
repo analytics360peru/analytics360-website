@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Analytics360 Training",
+    "section": "",
+    "text": "Diseñamos programas de formación a la medida de las necesidades operativas de su empresa, dictados en modalidad virtual en vivo o presencial.\n\n\nProgramas Destacados\n\n\n\nPower BI Corporativo: De Datos a Dashboards Ejecutivos\n\nDuración: 16 a 24 horas.\nEnfoque: Conexión a fuentes relacionales, modelado DAX avanzado, Power Query para automatización y diseño de tableros de control ejecutivos.\nDirigido a: Equipos comerciales, financieros, de riesgo y operaciones.\n\n\n\n\n\nR & Tidyverse para Procesamiento y Automatización\n\nDuración: 20 a 30 horas.\nEnfoque: Manipulación eficiente de microdatos, limpieza masiva, reportabilidad automatizada y modelos estadísticos aplicados.\nDirigido a: Analistas cuantitativos, científicos de datos e investigadores.\n\n\n\n\n\nSQL Avanzado para Analítica de Negocio\n\nDuración: 16 horas.\nEnfoque: Consultas complejas, subconsultas, Window Functions, CTEs y optimización para bases relacionales (PostgreSQL/Oracle).\nDirigido a: Analistas BI, administradores de datos y gestores de información.\n\n\n\n\n\nDesarrollo de Dashboards Web con R Shiny / Python\n\nDuración: 24 horas.\nEnfoque: Creación de aplicaciones web interactivas, integración de mapas, cálculo de KPIs dinámicos y despliegue en servidor.\nDirigido a: Equipos avanzados de analítica e inteligencia de negocios.\n\n\n\n\n\n\n\n\n\n\n¿Necesita un programa a medida para su equipo?\n\n\n\nPersonalizamos la malla curricular utilizando los propios datasets o flujos de trabajo de su empresa.\nSolicitar Malla Curricular Personalizada"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto y Cotizaciones",
+    "section": "",
+    "text": "Solicite una Cotización o Diagnóstico Gratuito\nComplete el formulario y uno de nuestros socios consultores se pondrá en contacto en menos de 24 horas.\n\nNombre Completo: \nCorreo Corporativo: \nEmpresa / Organización: \nServicio de Interés:  Capacitación: Power BI Corporativo Capacitación: R o Python para Data Science Capacitación: SQL Avanzado Consultoría: Desarrollo de Dashboards (Shiny/Power BI) Consultoría: Modelado Predictivo / Automatización Otro Requerimiento Especial \nDetalle de su solicitud:\n\n\nEnviar Mensaje de Cotización\n\n\n\n\n\n\nDatos de Contacto Directo\n\nRazón Social:\nAnalytics360 Consulting & Training S.A.C.\nCorreo Corporativo:\ncontacto@analytics360.pe\nRed Profesional:\nLinkedIn de Analytics360\nHorario de Atención:\nLunes a Viernes: 8:00 - 18:00 hrs.\n\n\n\nModalidad de Servicio\n\nCapacitaciones: Virtuales en vivo a nivel nacional e internacional, y presenciales In-House.\nConsultoría: Despliegue en servidores del cliente o en la nube."
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Analytics360 Consulting",
+    "section": "",
+    "text": "Desarrollamos proyectos de consultoría técnica para optimizar la toma de decisiones, automatizar flujos de datos e implementar modelos predictivos.\n\n\nServicios Especializados\n\n\n\n1. Automatización de Pipelines y Reportabilidad\n\nLimpieza y estructuración masiva de datos heterogéneos.\nFlujos automatizados en R/Python y SQL para eliminar tareas manuales repetitivas.\nGeneración de reportes ejecutivos reproducibles.\n\n\n\n\n\n2. Modelado Estadístico y Analítica Predictiva\n\nModelos de clasificación, regresión y series de tiempo para proyecciones de negocio.\nEvaluación de riesgo, segmentación de clientes y modelos de retención (churn).\nEvaluación de impacto y modelos econométricos aplicados.\n\n\n\n\n\n3. Web Apps y Tableros Interactivos (Shiny / Power BI)\n\nArquitectura e implementación de dashboards interactivos en R Shiny o Shiny para Python.\nVisualización geoespacial, indicadores clave (KPIs) en tiempo real y descarga de reportes.\n\n\n\n\n\n4. Muestreo e Investigación Cuantitativa\n\nDiseño muestral para encuestas complejas y estudios sectoriales.\nCálculo de factores de expansión, estimación de indicadores e intervalo de confianza.\nProcesamiento e inferencia con microdatos institucionales.\n\n\n\n\n\n\n\n\n\n\n¿Tiene un requerimiento técnico específico?\n\n\n\nAgende una breve reunión inicial de 15 minutos con nuestros socios estadísticos para diagnosticar la necesidad de su empresa.\nContactar al Equipo de Consultoría"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analytics360 Consulting & Training S.A.C.",
+    "section": "",
+    "text": "Transformamos datos masivos en decisiones de negocio y capacitamos a sus equipos para ser 100% autónomos en analítica.\nSolicitar Propuesta In-House"
+  },
+  {
+    "objectID": "index.html#soluciones-específicas-para-su-empresa",
+    "href": "index.html#soluciones-específicas-para-su-empresa",
+    "title": "Analytics360 Consulting & Training S.A.C.",
+    "section": "Soluciones Específicas para su Empresa",
+    "text": "Soluciones Específicas para su Empresa\n\n\n\n Analytics360 Training\nCapacitación Corporativa In-House\nDiseñamos talleres y programas prácticos orientados a resolver los problemas reales de su organización.\n\nPower BI Corporativo: De datos desordenados a tableros ejecutivos en tiempo real.\nExcel Avanzado & Power Query: Automatización de reportes mensuales.\nR & Python para Data Science: Procesamiento masivo y modelos predictivos.\nSQL Avanzado: Consultas complejas y estructuración en bases de datos.\n\nExplorar Mallas Curriculares →\n\n\n\n\n Analytics360 Consulting\nConsultoría y Desarrollo a Medida\nImplementamos soluciones analíticas avanzadas directamente en la infraestructura de su empresa.\n\nDashboards Web Interactivos (R Shiny / Python): Visualización ejecutiva a medida.\nModelado Predictivo: Modelos de retención de clientes (churn), riesgo y series de tiempo.\nPipelines de Datos Automatizados: Reducción del 80% de tiempo en procesamiento de reportes.\nInvestigación Cuantitativa & Muestreo: Diseño metodológico y análisis multivariado.\n\nVer Servicios de Consultoría →"
+  },
+  {
+    "objectID": "index.html#casos-de-aplicación-por-industria",
+    "href": "index.html#casos-de-aplicación-por-industria",
+    "title": "Analytics360 Consulting & Training S.A.C.",
+    "section": "Casos de Aplicación por Industria",
+    "text": "Casos de Aplicación por Industria\n\n\n\n Retail & Ventas\nDashboards de control de stock, predicción de demanda y segmentación de clientes.\n\n\n\n\n Finanzas y Riesgo\nModelos de score crediticio, detección de anomalías y automatización de reportes financieros.\n\n\n\n\n Salud y Sector Público\nMonitoreo de indicadores poblacionales, bioestadística y tableros epidemiológicos.\n\n\n\n\n Operaciones\nControl estadístico de procesos, optimización logística y reducción de tiempos muertos."
+  }
+]
